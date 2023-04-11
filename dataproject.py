@@ -2,6 +2,8 @@ import requests
 from lxml import html
 import pandas as pd
 
+
+
 class NyboligScraper:
 
     def get_pages(self, property_type=None):
@@ -126,3 +128,6 @@ class NyboligAnalysis:
 
 
 
+
+NyboligScraper()
+NyboligAnalysis()
