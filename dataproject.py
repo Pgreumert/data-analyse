@@ -129,5 +129,4 @@ class NyboligAnalysis:
 
 
 
-NyboligScraper()
-NyboligAnalysis()
+
